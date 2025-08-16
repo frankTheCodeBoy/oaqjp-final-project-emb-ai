@@ -72,7 +72,7 @@ Air Quality Index: Moderate
 
 ## 📄 License
 
-This project is licensed under the [Apache License](LICENSE). You’re free to use, modify, and distribute it with proper attribution.
+This project is licensed under the [Apache License 2.0](LICENSE).
 
 ## 🧠 Acknowledgments
 
